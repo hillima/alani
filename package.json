@@ -9,7 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "engines": {
-    "node": "18.18.2"
+    "node": "18.12.0"
   },
   "dependencies": {
     "@bloks/utils": "^27.2.0",
@@ -42,7 +42,7 @@
     "leva": "^0.9.18",
     "moment": "^2.29.4",
     "multer": "^1.4.2",
-    "next": "14.1.0",
+    "next": "12.1.5",
     "next-transpile-modules": "^9.0.0",
     "node-fetch": "^2.6.1",
     "nprogress": "^0.2.0",
